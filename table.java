@@ -9,9 +9,9 @@ public class table  {
 	public static void main(String[] args) throws InterruptedException {
 		 table t = new table();
 		 t.table1();
-		 Thread.sleep(3000);
+		 Thread.sleep(6000);
 		 t.table2();
-		 Thread.sleep(3000);
+		 Thread.sleep(5000);
 		 t.table3();
 	
 	}
